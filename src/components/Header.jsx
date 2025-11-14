@@ -10,7 +10,7 @@ const Header = () => {
       <div className="flex flex-col md:flex-row justify-between items-center max-w-[1120px] w-full gap-[40px] px-4">
         <div className="max-w-[540px]">
           <h1 className="font-semibold text-[26px] md:text-[28px] leading-[38px] tracking-[0.5px] mb-[20px] text-[#1a1a1a]">
-            <span className="text-[#f09b00ww]">Technical sulfur</span>, urea and other high-quality raw materials
+            <span className="text-[#f09b00ww]">Technical alumini</span>, urea and other high-quality raw materials
             and chemicals from Middle and Central Asia
           </h1>
 
